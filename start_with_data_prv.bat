@@ -1,0 +1,3 @@
+node . --niro --prv
+
+pause
